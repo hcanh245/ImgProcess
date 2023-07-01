@@ -1,0 +1,50 @@
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.exe.config
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.exe
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.pdb
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.AssemblyReference.cache
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.Properties.Resources.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.GenerateResource.cache
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.CoreCompileInputs.cache
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.exe
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.pdb
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmBase.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmChuyenAnhXam.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmMenu.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTangGiamDoSang.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTachNguong.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmBoCum.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmHistogram.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTangDoTuongPhan.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmAnhAmBan.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLocTrungVi.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLocTrungBinh.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmNearK.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLaplace.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmSobel.resources
+C:\Users\Canh\Desktop\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmH.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.exe.config
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.exe
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\bin\Debug\XuLyAnh.pdb
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.AssemblyReference.cache
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmAnhAmBan.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmBase.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmBoCum.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmChuyenAnhXam.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmH.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmHistogram.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLaplace.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmNearK.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLocTrungBinh.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmLocTrungVi.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmMenu.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmSobel.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTachNguong.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTangDoTuongPhan.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.frmTangGiamDoSang.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.Properties.Resources.resources
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.GenerateResource.cache
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.csproj.CoreCompileInputs.cache
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.exe
+C:\Users\nchie\OneDrive\Máy tính\XuLyAnh\XuLyAnh\obj\Debug\XuLyAnh.pdb
